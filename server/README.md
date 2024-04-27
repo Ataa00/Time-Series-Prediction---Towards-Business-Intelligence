@@ -1,4 +1,4 @@
-# Project Name
+# Spicetoon
 
 ## Table of Contents
 
